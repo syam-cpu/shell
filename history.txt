@@ -1,0 +1,21 @@
+sleep 20 &
+jobs
+fg 1
+jobs
+jobs
+sleep 20 &
+sleep 20 &
+sleep 20 &
+jobs
+overkill
+jobs
+./a.out
+ps
+sleep 20 &
+sleep 20 &
+fg 1
+jobs
+sleep 5 &
+fg 1
+jobs
+
